@@ -8,7 +8,7 @@
       {{.Content}}
       </div>
       <div class="post-feed">
-        {{ $posts := (.Site.GetPage "section" "/photogrammetrys" ).Pages }}
+        {{ $posts := (.Site.GetPage "section" "/wrecks" ).Pages }}
         {{ $posts_count := $posts | len }}
         {{ if gt $posts_count 0 }}
           {{ $posts_sorted := $posts.ByDate.Reverse }}

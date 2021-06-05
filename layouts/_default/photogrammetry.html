@@ -18,7 +18,18 @@
         <div class="post-content">
           {{ .Content | safeHTML }}
           <div>
-            
+             <h1>First Model Load</h1>
+        <babylon extends="minimal">
+            <model url="https://dl.dropboxusercontent.com/s/gjrzyhidiqcwt8u/prop-boss.glb?dl=0">
+               
+            </model>
+            <camera>
+                <behaviors>
+                    <auto-rotate type="0"></auto-rotate>
+                </behaviors>
+            </camera>
+        </babylon>
+        <script src="https://preview.babylonjs.com/viewer/babylon.viewer.max.js"></script>
           <div>
         </div><!-- .post-content -->
       </article><!-- .post -->

@@ -1,0 +1,23 @@
+---
+label: Survey page items
+hide_body: true
+fields:
+- name: survey_item_title
+  type: text
+  config:
+    required: false
+  label: Survey Item title
+- name: survey_item_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Survey Item Description
+- name: survey_item_image
+  type: file
+  config:
+    maxSize: 64
+  label: Survey Item Image

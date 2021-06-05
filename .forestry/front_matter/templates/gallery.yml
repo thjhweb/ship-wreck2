@@ -1,0 +1,22 @@
+---
+label: Gallery
+hide_body: true
+fields:
+- name: gallery_title
+  type: text
+  config:
+    required: false
+  label: Gallery Title
+- name: gallery_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Gallery Text
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: Gallery

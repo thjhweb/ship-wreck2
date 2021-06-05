@@ -1,4 +1,4 @@
-# ✨ ship-wreck2 ✨
+# ✨ ship-wreck ✨
 
 <img src="https://themes.stackbit.com/images/fjord-demo-1024x768.png" width="600">
 
@@ -9,18 +9,18 @@ You can [create a site](https://app.stackbit.com/create?theme=https://github.com
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/agency-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Showcase of agency work</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/azimuth-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A sleek SaaS theme</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A portfolio theme with a blog</a></li>
                 <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/libris-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A documentation theme</a></li>
+                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/vanilla-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Stackbit Vanilla theme</a></li>
                 </ul>
 </details>
 
 <details>
         <summary>✏️ &nbsp;<strong>CMS</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?cms=nocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Git</a></li>
                 <li><a href="https://app.stackbit.com/create?cms=netlifycms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Netlify CMS</a></li>
-                <li><a href="https://app.stackbit.com/create?cms=sanity&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Sanity</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=datocms&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Dato CMS</a></li>
+                <li><a href="https://app.stackbit.com/create?cms=contentful&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Contentful</a></li>
                 </ul>
 </details>
 
@@ -71,4 +71,4 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 
 ## Colophon
 
-Generated at `2021-06-05T15:15:22.399Z` by Stackbit version `0.3.53`.
+Generated at `2021-06-02T17:15:34.792Z` by Stackbit version `0.3.53`.

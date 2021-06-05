@@ -1,0 +1,97 @@
+---
+label: Wrecks
+hide_body: false
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The title of the wreck
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Subtitle
+  description: The text shown just below the Wreck title
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: thumb_img_path
+  type: file
+  config:
+    maxSize: 64
+  label: Image (Main Feed)
+  description: The image shown in the main feed
+- name: thumb_img_alt
+  type: text
+  config:
+    required: false
+  label: Image Alt Text (Main Feed)
+  description: The alt text of the main feed image
+- name: content_img_path
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image (wreck Post)
+  description: The background image of the left side in the single post. If no image
+    added, the default image specified in Header Configuration is displayed.
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
+  description: The excerpt of the post displayed in the main feed
+- name: survey_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Survey Page
+- name: photogrammetry_page
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: pages
+      file: 
+      path: 
+  label: Photogrammetry Page
+- name: hide_sidebar
+  type: boolean
+  label: Hide sidebar
+  description: Hide the left side in the wreck post
+- name: seo
+  type: field_group
+  config: {}
+  fields:
+  - name: include_stackbit_page_meta
+    type: include
+    config: {}
+    template: stackbit_page_meta
+    label: Page meta data
+  label: Seo
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: wreck
+pages:
+- content/wrecks/abercastle-field-school-with-madu.md

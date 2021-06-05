@@ -1,0 +1,18 @@
+---
+label: Survey Page
+hide_body: false
+fields:
+- name: survey_page_title
+  type: text
+  config:
+    required: false
+  label: Survey Page Title
+- name: survey_page_items
+  type: blocks
+  label: Survey Page Items
+  template_types:
+  - survey-page-items
+  - gallery
+  config:
+    min: 
+    max: 

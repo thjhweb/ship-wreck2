@@ -1,0 +1,18 @@
+---
+label: Photogrammetry Page
+hide_body: false
+fields:
+- name: photogrammetry_title
+  type: text
+  config:
+    required: false
+  label: Photogrammetry Title
+- name: photogrammetry_page_items
+  type: blocks
+  label: Photogrammetry Page Items
+  template_types:
+  - photogrammetry-page-items
+  - gallery
+  config:
+    min: 
+    max: 

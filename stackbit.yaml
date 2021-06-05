@@ -111,6 +111,7 @@ models:
         label: Title
         description: Site title
         required: true
+        description: Home Page Text
       - type: string
         name: domain
         label: Domain

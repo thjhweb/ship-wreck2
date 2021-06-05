@@ -14,6 +14,7 @@ photogrammetry_page_items:
   photogrammetry_item_title: Aber 3
   photogrammetry_description: "3"
   photogrammetry_model: "/images/prop-boss.glb"
+background_image: "/images/knowledgeable-sparrow.jpg"
 
 ---
 This is the content for this page

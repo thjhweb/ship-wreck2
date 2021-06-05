@@ -26,10 +26,12 @@
         <div class="post-content">
           {{ .Content | safeHTML }}
           <div>
-            <section class="photo">
             {{with .Params.photogrammetry_page}}
+            <section class="photo">
+            
             <a href="url">link text</a>
             </section>
+            {{end}}
             <section class="survey">
             TODO - Survey image and link
             </section>

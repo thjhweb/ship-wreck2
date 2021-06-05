@@ -1,6 +1,6 @@
 ---
 label: Home
-hide_body: true
+hide_body: false
 fields:
 - type: text
   name: title
@@ -32,4 +32,5 @@ fields:
   config:
     required: true
 pages:
+- content/_index.md
 - content/_index.md

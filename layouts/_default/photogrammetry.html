@@ -20,9 +20,6 @@
           <div>
           {{ range .Params.photogrammetry_page_items }}
             
-
-        {{ end }}
-
              <h3>{{.photogrammetry_item_title}}</h3>
              <p>{{.photogrammetry_description}}</p>
         <babylon extends="minimal">
@@ -35,6 +32,9 @@
                 </behaviors>
             </camera>
         </babylon>
+
+        {{ end }}
+
        
           <div>
         </div><!-- .post-content -->

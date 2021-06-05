@@ -16,3 +16,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/photogrammetry/abercastle-field-school-photogrammetry.md

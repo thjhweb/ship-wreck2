@@ -18,7 +18,7 @@
         <div class="post-content">
           {{ .Content | safeHTML }}
           <div>
-          {{ range .Params.page_sections }}
+          {{ range .Params.photogrammetry_page_items }}
             {{ if eq "hero-section" .template }}
             {{ partial "blocks/hero" . }}
             {{ end }}

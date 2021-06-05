@@ -8,3 +8,4 @@ photogrammetry_model = "/images/prop-boss.glb"
 template = "photogrammetry-page-items"
 
 +++
+This is the content for this page

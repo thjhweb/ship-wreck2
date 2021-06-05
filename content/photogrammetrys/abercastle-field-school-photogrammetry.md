@@ -2,10 +2,19 @@
 layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
-  - photogrammetry_description: dsfsdfsdfsdfsdf
-    photogrammetry_item_title: Abercastle Field School Photogrammetry
-    photogrammetry_model: /images/prop-boss.glb
-    template: photogrammetry-page-items
+- photogrammetry_description: dsfsdfsdfsdfsdf
+  photogrammetry_item_title: Abercastle Field School Photogrammetry
+  photogrammetry_model: "/images/prop-boss.glb"
+  template: photogrammetry-page-items
+- template: photogrammetry-page-items
+  photogrammetry_item_title: abercastle 2
+  photogrammetry_description: abercastle 2
+  photogrammetry_model: "/images/prop-boss.glb"
+- template: photogrammetry-page-items
+  photogrammetry_item_title: ''
+  photogrammetry_description: ''
+  photogrammetry_model: ''
+
 ---
 This is the content for this page
 

@@ -19,12 +19,8 @@
           {{ .Content | safeHTML }}
           <div>
           {{ range .Params.photogrammetry_page_items }}
-            {{ if eq "hero-section" .template }}
-            {{ partial "blocks/hero" . }}
-            {{ end }}
-            {{ if eq "call-to-action" .template }}
-            {{ partial "blocks/cta" . }}
-            {{ end }}
+            
+            
         {{ end }}
 
              <h1>First Model Load</h1>

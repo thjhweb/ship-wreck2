@@ -11,9 +11,9 @@ photogrammetry_page_items:
   photogrammetry_description: abercastle 2
   photogrammetry_model: "/images/prop-boss.glb"
 - template: photogrammetry-page-items
-  photogrammetry_item_title: ''
-  photogrammetry_description: ''
-  photogrammetry_model: ''
+  photogrammetry_item_title: Aber 3
+  photogrammetry_description: "3"
+  photogrammetry_model: "/images/prop-boss.glb"
 
 ---
 This is the content for this page

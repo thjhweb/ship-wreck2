@@ -26,7 +26,7 @@
         <div class="post-content">
           {{ .Content | safeHTML }}
           <div>
-            {{with .Params.photogrammetry_page}}
+            {{ if isset .Params "photogrammetry_page"}}
             <section class="photo">
             
             <a href="{{.Params.photogrammetry_page}}">Click here to see Photogrammetry</a>

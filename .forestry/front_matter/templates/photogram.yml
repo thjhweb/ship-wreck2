@@ -7,7 +7,7 @@ fields:
   config:
     required: false
   label: Photogrammetry Title
-- name: background_image
+- name: content_img_path
   type: file
   config:
     maxSize: 64

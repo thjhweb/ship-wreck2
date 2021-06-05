@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Photogrammetry Title
+- name: background_image
+  type: file
+  config:
+    maxSize: 64
+  label: Background Image
 - name: photogrammetry_page_items
   type: blocks
   label: Photogrammetry Page Items

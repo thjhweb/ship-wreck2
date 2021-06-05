@@ -24,8 +24,9 @@
         </div><!-- .post-subtitle -->
         {{ end }}
         <div class="post-content">
-        <div class="main-content">
+        <div class="main-photo-content">
           {{ .Content | safeHTML }}
+          </div>
           <div>
             {{ if isset .Params "photogrammetry_page"}}
             <section class="photo">

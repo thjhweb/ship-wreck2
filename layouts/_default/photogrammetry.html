@@ -18,7 +18,15 @@
         <div class="post-content">
           {{ .Content | safeHTML }}
           <div>
-          
+          {{ range .Params.page_sections }}
+            {{ if eq "hero-section" .template }}
+            {{ partial "blocks/hero" . }}
+            {{ end }}
+            {{ if eq "call-to-action" .template }}
+            {{ partial "blocks/cta" . }}
+            {{ end }}
+        {{ end }}
+
              <h1>First Model Load</h1>
         <babylon extends="minimal">
             <model url="https://dl.dropboxusercontent.com/s/gjrzyhidiqcwt8u/prop-boss.glb?dl=0">

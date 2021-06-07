@@ -4,9 +4,6 @@
   {{ partial "header.html" $include_dict }}
   <div id="content" class="site-content">
     <main id="main" class="site-main inner">
-      <div class="main-text">
-      {{.Content}}
-      </div>
       <div class="post-feed">
         {{ $posts := (.Site.GetPage "section" "/wrecks" ).Pages }}
         {{ $posts_count := $posts | len }}

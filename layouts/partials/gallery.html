@@ -1,7 +1,7 @@
 {{ if .Params.gallery }}
 {{ range .Params.gallery }}
 
-
+{{ $alttext := .gallery_image_alt_text }}
 
 {{ with . }}
 {{ $imageResource := ($.Site.GetPage "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}

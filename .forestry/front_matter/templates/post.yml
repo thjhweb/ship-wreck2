@@ -56,7 +56,5 @@ fields:
     required: true
 pages:
 - content/posts/fox-village-in-japan.md
-- content/posts/fragments-of-iceland.md
-- content/posts/nature.md
 - content/posts/photography.md
 - content/posts/working-from-home.md

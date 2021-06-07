@@ -28,7 +28,7 @@
           </div>
           <div>
           
-            {{ if (not (isset .Params "photogrammetry_page")) | or (eq .Params.photogrammetry_page "") }}
+            {{ if (not (eq .Params.photogrammetry_page ""))}}
             <section class="photo">
             
             <a href='/{{ trim .Params.photogrammetry_page ".md" }} '>Click here to see Photogrammetry</a>

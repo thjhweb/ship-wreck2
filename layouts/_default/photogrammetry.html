@@ -20,6 +20,7 @@
           {{ .Content | safeHTML }}
           </div>
           <div>
+          {{ partial "gallery.html" . }}
           {{ range .Params.photogrammetry_page_items }}
             
              <h3>{{.photogrammetry_item_title}}</h3>

@@ -35,7 +35,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "About",
-                "url": "/style-guide",
+                "url": "/about",
                 "style": "link",
                 "icon_class": "",
                 "new_window": false,

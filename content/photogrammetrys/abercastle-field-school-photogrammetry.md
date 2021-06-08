@@ -31,7 +31,7 @@ photogrammetry_page_items:
       memory (32GB). dropped the quality to 13.6million faces - Took around 22
       hours in total
     photogrammetry_model: /images/prop-boss.glb
-    photo_for_model: ''
+    photo_for_model: /images/DSCF6060 wired.jpg
   - template: photogrammetry-page-items
     photogrammetry_item_title: abercastle 3
     photogrammetry_description: abercastle 3

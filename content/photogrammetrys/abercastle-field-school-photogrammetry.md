@@ -33,7 +33,7 @@ photogrammetry_page_items:
     photogrammetry_model: /images/prop-boss.glb
     photo_for_model: /images/DSCF6060 wired.jpg
   - template: photogrammetry-page-items
-    photogrammetry_item_title: abercastle 3
+    photogrammetry_item_title: tWIN bOLLARD WITH OTHE WRECKAGE
     photogrammetry_description: abercastle 3
     photo_for_model: ''
     photogrammetry_model: ''

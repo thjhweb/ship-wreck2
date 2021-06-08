@@ -6,18 +6,22 @@ photogrammetry_page_items:
   photogrammetry_item_title: Abercastle Field School Photogrammetry
   photogrammetry_model: "/images/prop-boss.glb"
   template: photogrammetry-page-items
+  photo_for_model: "/images/10.jpg"
 - template: photogrammetry-page-items
   photogrammetry_item_title: abercastle 2
   photogrammetry_description: abercastle 2
   photogrammetry_model: "/images/prop-boss.glb"
+  photo_for_model: ''
 - template: photogrammetry-page-items
   photogrammetry_item_title: Aber 3
   photogrammetry_description: "3"
   photogrammetry_model: "/images/prop-boss.glb"
+  photo_for_model: ''
 - template: photogrammetry-page-items
   photogrammetry_item_title: ''
   photogrammetry_description: ''
   photogrammetry_model: ''
+  photo_for_model: ''
 background_image: "/images/knowledgeable-sparrow.jpg"
 content_img_path: "/images/knowledgeable-sparrow.jpg"
 

@@ -2,29 +2,35 @@
 layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
-  - photogrammetry_item_title: >-
-      Twin Bollards Leaning – originally fixed on the top deck (circled blue on
-      plan)
-    photogrammetry_model: /images/prop-boss.glb
-    template: photogrammetry-page-items
-    photo_for_model: /images/10.jpg
-  - template: photogrammetry-page-items
-    photogrammetry_item_title: abercastle 2
-    photogrammetry_description: abercastle 2
-    photogrammetry_model: /images/prop-boss.glb
-    photo_for_model: ''
-  - template: photogrammetry-page-items
-    photogrammetry_item_title: Aber 3
-    photogrammetry_description: '3'
-    photogrammetry_model: /images/prop-boss.glb
-    photo_for_model: ''
-  - template: photogrammetry-page-items
-    photogrammetry_item_title: ''
-    photogrammetry_description: ''
-    photogrammetry_model: ''
-    photo_for_model: ''
-background_image: /images/knowledgeable-sparrow.jpg
-content_img_path: /images/knowledgeable-sparrow.jpg
+- photogrammetry_item_title: Twin Bollards Leaning – originally fixed on the top deck
+    (circled blue on plan)
+  photogrammetry_model: "/images/prop-boss.glb"
+  template: photogrammetry-page-items
+  photo_for_model: "/images/10.jpg"
+  photogrammetry_description: |-
+    Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second
+
+    Started taking pictures at 12.58 250 photographs in 6 minutes
+
+    Saved as RAW total 11.6 GB - as JPG total 1.72 GB
+- template: photogrammetry-page-items
+  photogrammetry_item_title: abercastle 2
+  photogrammetry_description: abercastle 2
+  photogrammetry_model: "/images/prop-boss.glb"
+  photo_for_model: ''
+- template: photogrammetry-page-items
+  photogrammetry_item_title: Aber 3
+  photogrammetry_description: "3"
+  photogrammetry_model: "/images/prop-boss.glb"
+  photo_for_model: ''
+- template: photogrammetry-page-items
+  photogrammetry_item_title: ''
+  photogrammetry_description: ''
+  photogrammetry_model: ''
+  photo_for_model: ''
+background_image: "/images/knowledgeable-sparrow.jpg"
+content_img_path: "/images/knowledgeable-sparrow.jpg"
+
 ---
 The photography was carried out by Henry using  a Fuji X-T2 camera in a waterproof housing with a 12mm lens (further details with each image)
 
@@ -41,4 +47,3 @@ The image manipulation was done in Agisoft Metashape which included the followin
 5.  generating texture;
 
 6.  exporting results.
-

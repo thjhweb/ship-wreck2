@@ -8,18 +8,21 @@ photogrammetry_page_items:
     photogrammetry_model: /images/prop-boss.glb
     template: photogrammetry-page-items
     photo_for_model: /images/Screenshot 2021-06-08 at 16.13.14.png
-    photogrammetry_description: |
-      *   Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second
+    photogrammetry_description: >
+      The bollards were originally fixed on the top deck (shown circled blue on
+      plan above)
 
-      *   Started taking pictures at 12.58 250 photographs in 6 minutes
 
-      *   Saved as RAW total 11.6 GB - as JPG total 1.72 GB
+      Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second
 
-      *   Converted to JPEGS and white balanced in Photoshop
 
-      *   In Agisoft - aligned 248 cameras in 6 chunks with 485,000 points
+      Started taking pictures at 12.58 250 photographs in 6 minutes and saved as
+      RAW total 11.6 GB - as JPG total 1.72 GB.  Converted to JPEGS and white
+      balanced in Photoshop
 
-      *   Took around 4 days
+
+      In Agisoft - aligned 248 cameras in 6 chunks with 485,000 points .  Took
+      around 4 days
   - template: photogrammetry-page-items
     photogrammetry_item_title: Twin Bollards wrapped in cable
     photogrammetry_description: >

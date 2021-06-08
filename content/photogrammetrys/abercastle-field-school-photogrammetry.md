@@ -25,13 +25,13 @@ photogrammetry_page_items:
   photogrammetry_model: "/images/prop-boss.glb"
   photo_for_model: ''
 - template: photogrammetry-page-items
-  photogrammetry_item_title: ''
-  photogrammetry_description: ''
+  photogrammetry_item_title: abercastle 3
+  photogrammetry_description: abercastle 3
   photo_for_model: ''
   photogrammetry_model: ''
 - template: photogrammetry-page-items
-  photogrammetry_item_title: ''
-  photogrammetry_description: ''
+  photogrammetry_item_title: abercastle 4
+  photogrammetry_description: abercastle 4
   photo_for_model: ''
   photogrammetry_model: ''
 background_image: "/images/knowledgeable-sparrow.jpg"

@@ -3,7 +3,9 @@ layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
   - photogrammetry_description: This is some text about this specific model
-    photogrammetry_item_title: Abercastle Field School Photogrammetry
+    photogrammetry_item_title: >-
+      Twin Bollards Leaning – originally fixed on the top deck (circled blue on
+      plan)
     photogrammetry_model: /images/prop-boss.glb
     template: photogrammetry-page-items
     photo_for_model: /images/10.jpg

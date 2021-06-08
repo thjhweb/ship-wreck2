@@ -1,6 +1,6 @@
 ---
 content_img_path: "/images/Leysian.jpg"
-date: 2021-05-31T23:00:00.000Z
+date: 2021-06-07T23:00:00+00:00
 excerpt: In June 2019. Multiple dive clubs joined a field school run by MADU to dive
   the SS Leysian. The field schools formed part of Commemorating the Forgotten U-Boat
   War around the Welsh Coast 1914-18 that was a project co-ordinated by the Royal

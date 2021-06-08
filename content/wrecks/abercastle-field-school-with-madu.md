@@ -22,7 +22,7 @@ subtitle: ''
 survey_items: []
 thumb_img_alt: ''
 thumb_img_path: /images/Leysian.jpg
-title: "Abercastle Field School with (MADU)\_ - The SS Leysian"
+title: Abercastle Field School with MADU - The SS Leysian
 seo:
   description: ''
   extra: []

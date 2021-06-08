@@ -13,6 +13,8 @@ photogrammetry_page_items:
       plan above)
 
 
+
+
       Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second
 
 

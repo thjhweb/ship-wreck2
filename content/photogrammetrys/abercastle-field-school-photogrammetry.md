@@ -24,8 +24,8 @@ photogrammetry_page_items:
     photogrammetry_item_title: Twin Bollards wrapped in cable
     photogrammetry_description: >
       \* Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second \* Started taking
-      pictures at 13.09 356 photographs in 7 minutes \* Saved as RAW total 16.7
-      GB - as JPG total 4.66 GB \* Converted to TIFFS and white balanced in
+      pictures at 13.09 with 356 photographs in 7 minutes \* Saved as RAW total
+      16.7 GB - as JPG total 4.66 GB \* Converted to TIFFS and white balanced in
       Photoshop \* In Agisoft - aligned 356 cameras in 1 chunk with 452,000
       points \* Originally tried to mesh with 41million faces but ran out of
       memory (32GB). dropped the quality to 13.6million faces - Took around 22

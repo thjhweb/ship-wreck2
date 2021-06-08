@@ -22,7 +22,8 @@ photogrammetry_page_items:
       *   Took around 4 days
   - template: photogrammetry-page-items
     photogrammetry_item_title: 'Twin Bollards wrapped in cable '
-    photogrammetry_description: abercastle 2
+    photogrammetry_description: |
+      originally fixed on top deck (circled blue on plans)
     photogrammetry_model: /images/prop-boss.glb
     photo_for_model: ''
   - template: photogrammetry-page-items

@@ -21,7 +21,7 @@ subtitle: Sandwich sub title
 survey_page: []
 thumb_img_alt: ''
 thumb_img_path: /images/unique-dolphin.jpg
-title: Sandwich Title
+title: Sandwich Flats Fieldwork with Nautical Archaeological Society (NAS)
 seo:
   description: ''
   extra: []

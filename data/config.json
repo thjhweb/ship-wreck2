@@ -24,7 +24,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Wrecks",
+                "label": "Sites",
                 "url": "/wrecks",
                 "style": "link",
                 "icon_class": "",

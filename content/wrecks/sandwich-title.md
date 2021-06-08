@@ -1,5 +1,4 @@
 ---
-content_img_path: /images/sandwich-wreck.jpeg
 date: '2021-06-06T23:00:00.000Z'
 excerpt: >-
   Sandwich Flats stretch for about five miles along the Kent coast between

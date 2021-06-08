@@ -18,7 +18,11 @@ excerpt: >-
 hide_sidebar: false
 layout: wreck
 photogrammetry: []
-subtitle: ''
+subtitle: >-
+  The SS Leysian was built in 1906 in Newcastle upon Tyne for a German shipping
+  line and was originally named SS Sarek.  She was interned in 1914 at the
+  outbreak of war and given to a British shipping line as a prize of war and
+  re-named SS Leysian 
 survey_items: []
 thumb_img_alt: ''
 thumb_img_path: /images/Leysian.jpg

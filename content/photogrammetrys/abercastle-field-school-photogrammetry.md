@@ -46,7 +46,7 @@ photogrammetry_page_items:
     photo_for_model: /images/mighty-whale.jpg
     photogrammetry_model: ''
   - template: photogrammetry-page-items
-    photogrammetry_item_title: Pare Propellor Boss
+    photogrammetry_item_title: Spare Propellor Boss
     photogrammetry_description: abercastle 4
     photo_for_model: ''
     photogrammetry_model: ''

@@ -7,7 +7,7 @@ photogrammetry_page_items:
       plan)
     photogrammetry_model: /images/prop-boss.glb
     template: photogrammetry-page-items
-    photo_for_model: /images/10.jpg
+    photo_for_model: /images/Screenshot 2021-06-08 at 16.13.14.png
     photogrammetry_description: |
       *   Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second
 

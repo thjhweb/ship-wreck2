@@ -24,6 +24,16 @@ photogrammetry_page_items:
   photogrammetry_description: ''
   photogrammetry_model: "/images/prop-boss.glb"
   photo_for_model: ''
+- template: photogrammetry-page-items
+  photogrammetry_item_title: ''
+  photogrammetry_description: ''
+  photo_for_model: ''
+  photogrammetry_model: ''
+- template: photogrammetry-page-items
+  photogrammetry_item_title: ''
+  photogrammetry_description: ''
+  photo_for_model: ''
+  photogrammetry_model: ''
 background_image: "/images/knowledgeable-sparrow.jpg"
 content_img_path: "/images/knowledgeable-sparrow.jpg"
 

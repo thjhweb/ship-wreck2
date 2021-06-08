@@ -21,7 +21,12 @@ photogrammetry_page_items:
 
       *   Took around 4 days
   - template: photogrammetry-page-items
-    photogrammetry_item_title: 'Twin Bollards wrapped in cable '
+    photogrammetry_item_title: >-
+      Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second * Started taking
+      pictures at 12.58 250 photographs in 6 minutes * Saved as RAW total 11.6
+      GB - as JPG total 1.72 GB * Converted to JPEGS and white balanced in
+      Photoshop * In Agisoft - aligned 248 cameras in 6 chunks with 485,000
+      points * Took around 4 days
     photogrammetry_description: |
       originally fixed on top deck (circled blue on plans)
     photogrammetry_model: /images/prop-boss.glb

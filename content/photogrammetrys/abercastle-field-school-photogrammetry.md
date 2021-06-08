@@ -27,7 +27,7 @@ photogrammetry_page_items:
     photogrammetry_item_title: Twin Bollards wrapped in cable
     photogrammetry_description: >
       Again the bollards were originally fixed on the top deck (shown circled
-      blue on plan above) but these have a graet deal of steel wire cable
+      blue on plan above) but these have a great deal of steel wire cable
       wrapped around them
 
 

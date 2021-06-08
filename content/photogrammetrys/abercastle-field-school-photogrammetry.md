@@ -43,7 +43,7 @@ photogrammetry_page_items:
       memory (32GB). dropped the quality to 13.6million faces - Took around 22
       hours in total
 
-    photo_for_model: ''
+    photo_for_model: /images/mighty-whale.jpg
     photogrammetry_model: ''
   - template: photogrammetry-page-items
     photogrammetry_item_title: abercastle 4

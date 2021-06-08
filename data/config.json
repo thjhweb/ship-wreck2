@@ -5,7 +5,7 @@
         "type": "header",
         "template": "header",
         "title": "Fjord",
-        "tagline": "JournalRecording Archaeology Blog",
+        "tagline": "Journal Recording Archaeology Blog",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/front.jpg",

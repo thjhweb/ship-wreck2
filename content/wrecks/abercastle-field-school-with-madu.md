@@ -59,7 +59,7 @@ One of the divers, Henry, photographed four particular areas of the wreck and by
 
 ![](file:///C:\Users\john\AppData\Local\Temp\msohtmlclip1\06\clip_image002.png)
 
-\*\*Total Station – \*\*
+**Total Station:**
 
  A Total Station is a combined Theodolite and an Electronic Distance Measuring device. It is a precision instrument that measures angles in both the horizontal and vertical planes and measures distances
 

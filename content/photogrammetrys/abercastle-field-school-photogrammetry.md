@@ -46,7 +46,9 @@ photogrammetry_page_items:
     photo_for_model: /images/mighty-whale.jpg
     photogrammetry_model: ''
   - template: photogrammetry-page-items
-    photogrammetry_item_title: Spare Propellor Boss - originally on the main deck
+    photogrammetry_item_title: >-
+      Spare Propellor Boss - originally on the main deck (circled in red on the
+      plan)
     photogrammetry_description: abercastle 4
     photo_for_model: ''
     photogrammetry_model: ''

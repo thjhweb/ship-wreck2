@@ -22,7 +22,7 @@ subtitle: ''
 survey_items: []
 thumb_img_alt: ''
 thumb_img_path: /images/Leysian.jpg
-title: Abercastle Field School with MADU
+title: Abercastle Field School with Malvern Archaeological Diving Unit (MADU)
 seo:
   description: ''
   extra: []

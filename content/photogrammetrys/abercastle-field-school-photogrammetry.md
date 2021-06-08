@@ -21,7 +21,7 @@ photogrammetry_page_items:
     *   Took around 4 days
 - template: photogrammetry-page-items
   photogrammetry_item_title: abercastle 2
-  photogrammetry_description: abercastle 2
+  photogrammetry_description: ''
   photogrammetry_model: "/images/prop-boss.glb"
   photo_for_model: ''
 background_image: "/images/knowledgeable-sparrow.jpg"

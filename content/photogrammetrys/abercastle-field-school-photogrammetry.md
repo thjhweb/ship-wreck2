@@ -15,13 +15,11 @@ photogrammetry_page_items:
 
       *   Saved as RAW total 11.6 GB - as JPG total 1.72 GB
 
-      *
-
       *   Converted to JPEGS and white balanced in Photoshop
 
       *   In Agisoft - aligned 248 cameras in 6 chunks with 485,000 points
 
-      *   Took around 4 days 
+      *   Took around 4 days
   - template: photogrammetry-page-items
     photogrammetry_item_title: abercastle 2
     photogrammetry_description: abercastle 2

@@ -50,7 +50,7 @@ photogrammetry_page_items:
       Spare Propellor Boss - originally on the main deck (circled in red on the
       plan)
     photogrammetry_description: abercastle 4
-    photo_for_model: ''
+    photo_for_model: /images/knowledgeable-sparrow.jpg
     photogrammetry_model: ''
 background_image: /images/knowledgeable-sparrow.jpg
 content_img_path: /images/knowledgeable-sparrow.jpg

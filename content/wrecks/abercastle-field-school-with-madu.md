@@ -38,13 +38,35 @@ photogrammetry_page: photogrammetrys/abercastle-field-school-photogrammetry.md
 ---
 ![](https://cdn.forestry.io/res2/cZ1ay_JMZDsN8OqF_qyGasUk8v4s2iDlRNDO_SJCjqE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzNFck5WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tOTRi/NDAxMmU3Y2ViMDcx/Y2NlYzc3YWQ0NmUz/NDZhNTU3MjIyNzE2/My9zaGlwcyUyMHBs/YW4uanBn)
 
-The Wreck  The ship stayed afloat for some months after
+**The Wreck  **
+
+The ship stayed afloat for some months after
 hitting the cliff and much of the materials from the ship was salvaged, it is
 believed some was brought ashore by boat and some was hoisted up the cliff .
 
 As part of the field school various surveying techniques were used to both record
-the wreck and to provide training to those who wished to learn new skills. 
+the wreck and to provide training to those who wished to learn new skills.
 
 Photogrammetry was used to record the wreck remains below the
 waves and a Total Station was used to record the positions of the wreck and the
 probable position where the salvaged material were raised onto the cliff top.
+
+**Photogrammetry:**
+
+This is a method of obtaining reliable data about physical objects through the process of recording, measuring and interpreting photographic images. Above the surface it can be as simple as using a smartphone’s camera although more specialist equipment is needed underwater. Once the photographs, have been taken then software is used to process the data and and create a 3D image.
+
+One of the divers, Henry, photographed four particular areas of the wreck and by using 3D software these have been converted into models that can be viewed and manipulated on this site
+
+
+![](file:///C:\Users\john\AppData\Local\Temp\msohtmlclip1\06\clip_image002.png)
+
+**Total Station – **
+
+ A Total Station is a combined Theodolite and an Electronic Distance Measuring device. It is a precision instrument that measures angles in both the horizontal and vertical planes and measures distances
+
+The instrument used at the field school was a Leica TS06 plus 5” R500 – generally considered to be of mid to high accuracy
+
+It has a range of 3500metres with a reflector target with an accuracy in the region of 2.5mm
+
+ A survey was completed of the cliff top to give the relative position of the wreck in the sea below
+

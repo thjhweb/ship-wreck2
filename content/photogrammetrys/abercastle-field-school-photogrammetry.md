@@ -2,32 +2,42 @@
 layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
-- photogrammetry_description: This is some text about this specific model
-  photogrammetry_item_title: Abercastle Field School Photogrammetry
-  photogrammetry_model: "/images/prop-boss.glb"
-  template: photogrammetry-page-items
-  photo_for_model: "/images/10.jpg"
-- template: photogrammetry-page-items
-  photogrammetry_item_title: abercastle 2
-  photogrammetry_description: abercastle 2
-  photogrammetry_model: "/images/prop-boss.glb"
-  photo_for_model: ''
-- template: photogrammetry-page-items
-  photogrammetry_item_title: Aber 3
-  photogrammetry_description: "3"
-  photogrammetry_model: "/images/prop-boss.glb"
-  photo_for_model: ''
-- template: photogrammetry-page-items
-  photogrammetry_item_title: ''
-  photogrammetry_description: ''
-  photogrammetry_model: ''
-  photo_for_model: ''
-background_image: "/images/knowledgeable-sparrow.jpg"
-content_img_path: "/images/knowledgeable-sparrow.jpg"
-
+  - photogrammetry_description: This is some text about this specific model
+    photogrammetry_item_title: Abercastle Field School Photogrammetry
+    photogrammetry_model: /images/prop-boss.glb
+    template: photogrammetry-page-items
+    photo_for_model: /images/10.jpg
+  - template: photogrammetry-page-items
+    photogrammetry_item_title: abercastle 2
+    photogrammetry_description: abercastle 2
+    photogrammetry_model: /images/prop-boss.glb
+    photo_for_model: ''
+  - template: photogrammetry-page-items
+    photogrammetry_item_title: Aber 3
+    photogrammetry_description: '3'
+    photogrammetry_model: /images/prop-boss.glb
+    photo_for_model: ''
+  - template: photogrammetry-page-items
+    photogrammetry_item_title: ''
+    photogrammetry_description: ''
+    photogrammetry_model: ''
+    photo_for_model: ''
+background_image: /images/knowledgeable-sparrow.jpg
+content_img_path: /images/knowledgeable-sparrow.jpg
 ---
-This is the content for this page
+The photography was carried out by Henry using  a Fuji X-T2 camera in a waterproof housing with a 12mm lens (further details with each image)
 
-This is some content about the image below
+The image manipulation was done in Agisoft Metashape which included the following main steps:
 
-![](https://cdn.forestry.io/res2/VEGO2IucubE5vbxVRF-aumu2mK31s0QixRvzmh42O3c/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVDFSMk1IY3dQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNzc1/ZmI2OTIzODNiNDZh/YjEyZTZmZGYyYjIz/YjFiMzQzYjFkMTk4/MS9rbm93bGVkZ2Vh/YmxlLXNwYXJyb3cu/anBn)
+1.  loading images; inspecting loaded images, removing unnecessary images; 
+
+2.  aligning cameras; (this may be done in chunks)
+
+3.  building dense point cloud;
+
+4.  building mesh (3D polygonal model);
+
+5.  generating texture;
+
+6.  exporting results.
+

@@ -2,8 +2,7 @@
 layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
-  - photogrammetry_description: "Fuji X-T2 \_ 12mm lens \_ ISO 640 \_ \_ f/2.8 \_ \_ \_ 1/250th of a second\n\nStarted taking pictures at 12.58\_ \_ 250 photographs in 6 minutes\n\nSaved as RAW total 11.6 GB -\_ as JPG total 1.72 GB \n"
-    photogrammetry_item_title: >-
+  - photogrammetry_item_title: >-
       Twin Bollards Leaning – originally fixed on the top deck (circled blue on
       plan)
     photogrammetry_model: /images/prop-boss.glb

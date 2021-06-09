@@ -6,7 +6,7 @@
         "template": "header",
         "title": "Fjord",
         "tagline": "Recording Archaeology",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/trans.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/front.jpg",
         "has_nav": true,

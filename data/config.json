@@ -4,7 +4,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Surveyor",
+        "title": "Journeyman",
         "tagline": "Recording Archaeology",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/front.jpg",

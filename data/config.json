@@ -4,7 +4,7 @@
     "header": {
         "type": "header",
         "template": "header",
-        "title": "Survey Journal",
+        "title": "Surveyor",
         "tagline": "Recording Archaeology",
         "logo_img_alt": "Fjord Logo",
         "background_img": "/images/front.jpg",

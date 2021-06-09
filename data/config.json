@@ -7,7 +7,7 @@
         "title": "Journal",
         "tagline": "Recording Archaeology",
         "logo_img_alt": "Fjord Logo",
-        "background_img": "/images/logo.svg",
+        "background_img": "/images/front.jpg",
         "has_nav": true,
         "nav_links": [
             {

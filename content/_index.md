@@ -45,10 +45,7 @@ layout: home
 ---
 # Welcome to this website
 
-I am a semi retired surveyor living in the East Midlands, England. Having
-worked in the construction industry specialising in Architectural Conservation,
-I have had the opportunity to use various methods of site recording and as a
-keen wreck diver I have been able use some of these skills to record nautical
+Hello, my name is John and I am a semi retired surveyor living in the East Midlands, England. Having worked in the construction industry specialising in Architectural Conservation, I have had the opportunity to use various methods of site recording and as a keen wreck diver I have been able use some of these skills to record nautical
 archaeological sites both above and below the surface.
 
 I have been a member of the Nautical Archaeological Society (NAS) for a

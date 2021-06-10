@@ -13,7 +13,7 @@ excerpt: >-
 hide_sidebar: false
 layout: wreck
 photogrammetry_page: photogrammetrys/sandwich-photogrammetry.md
-subtitle: Sandwich sub title
+subtitle: Surveying 2018 -2019
 survey_page: []
 thumb_img_alt: ''
 thumb_img_path: /images/unique-dolphin.jpg

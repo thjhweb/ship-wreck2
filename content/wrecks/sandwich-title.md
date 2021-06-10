@@ -24,6 +24,7 @@ seo:
   robots: []
   title: ''
   type: stackbit_page_meta
+content_img_path: /images/unique-dolphin.jpg
 ---
  
 

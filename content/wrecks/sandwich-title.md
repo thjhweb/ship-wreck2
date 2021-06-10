@@ -26,9 +26,7 @@ seo:
   type: stackbit_page_meta
 content_img_path: /images/unique-dolphin.jpg
 ---
-![](/\_static/app-assets/sand%20map.jpg) 
-
-The map showing the various sites found on the flats was produced for
+![](/\_static/app-assets/sand%20map.jpg) The map showing the various sites found on the flats was produced for
 the NAS Annual Conference 2019 using QGIS
 
 The furthest point North is shown as 51.2975N 1.3792E

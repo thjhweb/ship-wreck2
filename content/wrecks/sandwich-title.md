@@ -12,7 +12,7 @@ excerpt: >-
   areas was done using a Leica TS6 Total Station
 hide_sidebar: false
 layout: wreck
-photogrammetry_page: photogrammetrys/sandwich-photogrammetry.md
+photogrammetry_page: ''
 subtitle: Surveying 2018 -2019
 survey_page: []
 thumb_img_alt: ''

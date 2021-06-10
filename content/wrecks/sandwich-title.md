@@ -54,10 +54,18 @@ Remains of B17 bomber, taken from drone. Lower photograph (origin unknown) shows
 
 ![](/\_static/app-assets/b17.jpg)
 
-\*\*SB0009 \*\* (photograph below) 51.297563N  1.379053E Position from GIS, georeferenced total station data  Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
+\*\*SB0009 \*\* (photograph below) 51.291168N  1.383207E Position from GIS, georeferenced total station data - Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
 
 ![](/\_static/app-assets/sb0009.jpg)
 
-Depending on the tide the sea can be 450 metres from the cultivated or developed land
+\*\*SB0012 \*\* (photograph below) 51.29948N  1.377275E Position from Smart Phone - Wreck with frames protruding from the sand. Bow facing landward. Galley brick on site.
 
-The numbering refers to the listings of the wreck sites produced by the NAS & MSDS Marine.
+
+![](/\_static/app-assets/sb0012.jpg)
+
+
+
+
+
+
+![](https://preview--ship-wreck2-b94f1.stackbit.dev/\_static/app-assets/sb0009.jpg)

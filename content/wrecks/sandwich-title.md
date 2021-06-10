@@ -25,6 +25,20 @@ seo:
   title: ''
   type: stackbit_page_meta
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales tincidunt nisl eget auctor. Sed nec erat vel sem mattis pellentesque. Integer laoreet rhoncus ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla, sem non aliquam condimentum, massa metus vehicula dolor, sit amet interdum purus orci condimentum odio. Curabitur at placerat dolor. Praesent vitae ipsum viverra, facilisis enim eget, vestibulum diam. Fusce ligula lorem, molestie non pretium sollicitudin, imperdiet ac lectus. Aenean id nisi eros. Vestibulum semper sagittis urna. Morbi ultricies id lacus sit amet suscipit. Sed luctus lacinia quam non ornare. Proin scelerisque auctor fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis aliquam neque sed consectetur.
+ 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sodales tincidunt nisl eget auctor. Sed nec erat vel sem mattis pellentesque. Integer laoreet rhoncus ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla, sem non aliquam condimentum, massa metus vehicula dolor, sit amet interdum purus orci condimentum odio. Curabitur at placerat dolor. Praesent vitae ipsum viverra, facilisis enim eget, vestibulum diam. Fusce ligula lorem, molestie non pretium sollicitudin, imperdiet ac lectus. Aenean id nisi eros. Vestibulum semper sagittis urna. Morbi ultricies id lacus sit amet suscipit. Sed luctus lacinia quam non ornare. Proin scelerisque auctor fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis aliquam neque sed consectetur.
+The map showing the various sites found on the flats was produced for
+the NAS Annual Conference 2019 using QGIS
+
+ The furthest point North is shown as 51.2975N 1.3792E
+
+  The furthest point South is shown as 51.282199N 1.378861E
+
+One degree Latitude (for our purposes) is 111.111 km. So the top to the bottom of the map
+is approximately 1700 metres
+
+Depending on the tide the sea can be 450 metres from the cultivated or developed land
+
+
+The numbering refers to the listings of the wreck sites produced by the NAS & MSDS Marine.
+

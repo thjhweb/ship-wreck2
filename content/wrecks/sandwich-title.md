@@ -30,29 +30,42 @@ content_img_path: /images/unique-dolphin.jpg
 
 All of the Co-ordinates are given in Decimal Degrees Longitude and Latitude -  WG1984
 
-**SB0001 **(photograph below) 51.285717N  1.3833E at the North end of wreck taken with a handheld GPS
+\*\*SB0001 \*\*(photograph below) 51.285717N  1.3833E at the North end of wreck taken with a handheld GPS
 
 ![](/\_static/app-assets/sb0001.jpg)
 
-****
+***
 
-**SB0002 **(photograph below)  51.289255N  1.385203E Positioned in a Multibeam Survey
+\*\*SB0002 \*\*(photograph below)  51.289255N  1.385203E Positioned in a Multibeam Survey
 Small carvel-built wreck with bow facing approximately westward. Not seen since first survey (June 2018). Position always submerged during repeat surveys. The wreck may have deteriorated since then.
 
 ![](/\_static/app-assets/sb0002.jpg)
 
-**SB0003 **(photograph below)  51.294408N  1.382197E Positioned from GPS and GIS, georeferenced from Total Station data
+\*\*SB0003 \*\*(photograph below)  51.294408N  1.382197E Positioned from GPS and GIS, georeferenced from Total Station data
 One of the volunteers, Tony Ovenden recorded the site and found lead in the footprint of the boat. Line of internal timbers maybe masts. Bow facing westward
 
 ![](/\_static/app-assets/sb0003.jpg)
 
-**SB0004 **(photograph below)  51.295261N  1.383584E Positioned from Smart Phone GPS 
-One of the volunteers, 
+\*\*SB0004 \*\*(photograph below)  51.295261N  1.383584E Positioned from Smart Phone GPS
 
 Remains of B17 bomber, taken from drone. Lower photograph (origin unknown) shows the plane on fire
 
 ![](/\_static/app-assets/sb0004.jpg)
+
+
 ![](/\_static/app-assets/b17.jpg)
+
+
+
+\*\*SB0009 \*\* (photograph below) 51.297563N  1.379053E Position from GIS, georeferenced total station data
+
+Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
+
+![](/\_static/app-assets/sb0009.jpg)
+
+
+
+
 
 Depending on the tide the sea can be 450 metres from the cultivated or developed land
 

@@ -52,20 +52,11 @@ Remains of B17 bomber, taken from drone. Lower photograph (origin unknown) shows
 
 ![](/\_static/app-assets/sb0004.jpg)
 
-
 ![](/\_static/app-assets/b17.jpg)
 
-
-
-\*\*SB0009 \*\* (photograph below) 51.297563N  1.379053E Position from GIS, georeferenced total station data
-
-Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
+\*\*SB0009 \*\* (photograph below) 51.297563N  1.379053E Position from GIS, georeferenced total station data  Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
 
 ![](/\_static/app-assets/sb0009.jpg)
-
-
-
-
 
 Depending on the tide the sea can be 450 metres from the cultivated or developed land
 

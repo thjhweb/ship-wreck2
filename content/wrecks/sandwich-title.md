@@ -26,7 +26,7 @@ seo:
   type: stackbit_page_meta
 content_img_path: /images/unique-dolphin.jpg
 ---
- 
+![](https://cdn.forestry.io/res2/cZ1ay_JMZDsN8OqF_qyGasUk8v4s2iDlRNDO_SJCjqE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzNFck5WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tOTRi/NDAxMmU3Y2ViMDcx/Y2NlYzc3YWQ0NmUz/NDZhNTU3MjIyNzE2/My9zaGlwcyUyMHBs/YW4uanBn) 
 
 The map showing the various sites found on the flats was produced for
 the NAS Annual Conference 2019 using QGIS
@@ -40,6 +40,4 @@ is approximately 1700 metres
 
 Depending on the tide the sea can be 450 metres from the cultivated or developed land
 
-
 The numbering refers to the listings of the wreck sites produced by the NAS & MSDS Marine.
-

@@ -48,24 +48,17 @@ One of the volunteers, Tony Ovenden recorded the site and found lead in the foot
 
 \*\*SB0004 \*\*(photograph below)  51.295261N  1.383584E Positioned from Smart Phone GPS
 
-Remains of B17 bomber, taken from drone. Lower photograph (origin unknown) shows the plane on fire
+Remains of B17 bomber, photographed from a drone, the lower photograph (origin unknown) shows the plane on fire, presumably shortly after its crash
 
 ![](/\_static/app-assets/sb0004.jpg)
 
 ![](/\_static/app-assets/b17.jpg)
 
-\*\*SB0009 \*\* (photograph below) 51.291168N  1.383207E Position from GIS, georeferenced total station data - Wreck. With possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
+\*\*SB0009 \*\* (photograph below) 51.291168N  1.383207E Position from GIS, georeferenced total station data - Wreck with possible ballast. Not exposed during earlier surveys. Stern faces seaward and bow landward. Stern very flat.
 
 ![](/\_static/app-assets/sb0009.jpg)
 
-\*\*SB0012 \*\* (photograph below) 51.29948N  1.377275E Position from Smart Phone - Wreck with frames protruding from the sand. Bow facing landward. Galley brick on site.
-
+\*\*SB0012 \*\* (photograph below) 51.29948N  1.377275E Position from Smart Phone - Wreck with frames protruding from the sand. Bow facing landward. Galley brick found on site.
 
 ![](/\_static/app-assets/sb0012.jpg)
 
-
-
-
-
-
-![](https://preview--ship-wreck2-b94f1.stackbit.dev/\_static/app-assets/sb0009.jpg)

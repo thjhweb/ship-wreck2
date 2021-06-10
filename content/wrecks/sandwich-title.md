@@ -26,17 +26,16 @@ seo:
   type: stackbit_page_meta
 content_img_path: /images/unique-dolphin.jpg
 ---
-![](https://cdn.forestry.io/res2/cZ1ay_JMZDsN8OqF_qyGasUk8v4s2iDlRNDO_SJCjqE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUzNFck5WRXdQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tOTRi/NDAxMmU3Y2ViMDcx/Y2NlYzc3YWQ0NmUz/NDZhNTU3MjIyNzE2/My9zaGlwcyUyMHBs/YW4uanBn) 
+![](/\_static/app-assets/sand%20map.jpg) 
 
 The map showing the various sites found on the flats was produced for
 the NAS Annual Conference 2019 using QGIS
 
- The furthest point North is shown as 51.2975N 1.3792E
+The furthest point North is shown as 51.2975N 1.3792E
 
-  The furthest point South is shown as 51.282199N 1.378861E
+ The furthest point South is shown as 51.282199N 1.378861E
 
-One degree Latitude (for our purposes) is 111.111 km. So the top to the bottom of the map
-is approximately 1700 metres
+One degree Latitude (for our purposes) is 111.111 km. So from the top, to the bottom of the map is approximately 1700 metres
 
 Depending on the tide the sea can be 450 metres from the cultivated or developed land
 

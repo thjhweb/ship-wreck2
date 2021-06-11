@@ -45,7 +45,7 @@ photogrammetry_page_items:
     photogrammetry_model: ''
   - template: photogrammetry-page-items
     photogrammetry_item_title: Spare Propellor Boss
-    photogrammetry_description: "The spare boss with its spare propellor was stored on the Main Deck and is circled in red on the plans shown above\n\nFuji X-T2 12mm lens ISO 800 f/3.2 Aperture Priority was tried which meant that there is a range of speeds from 1/28th \_to\_ 1/250th of a second\nStarted taking pictures at 16.23 and took 144 photographs in 8 minutes\n\nSaved as RAW total 19 GB - as JPG total 4.95 GB Converted to TIFFS and white balanced in Photoshop\n\nIn Agisoft - aligned 356 cameras in 1 chunk with 452,000 points \\\\\\\\* Originally tried to mesh with 41million faces but ran out of memory (32GB). dropped the quality to 13.6million\n"
+    photogrammetry_description: "The spare boss with its spare propellor was stored on the Main Deck and is circled in red on the plan \n\nFuji X-T2 12mm lens ISO 800 f/3.2 Aperture Priority was tried which meant that there is a range of speeds from 1/28th \_to\_ 1/250th of a second\nStarted taking pictures at 16.23 and took 144 photographs in 8 minutes\n\nSaved as RAW total 19 GB - as JPG total 4.95 GB Converted to TIFFS and white balanced in Photoshop\n\nIn Agisoft - aligned 133 cameras in 3 chunks with 160,000 points . \n"
     photo_for_model: /images/knowledgeable-sparrow.jpg
     photogrammetry_model: ''
 background_image: /images/knowledgeable-sparrow.jpg

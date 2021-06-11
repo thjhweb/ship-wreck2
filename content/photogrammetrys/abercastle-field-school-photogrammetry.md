@@ -34,14 +34,13 @@ photogrammetry_page_items:
   - template: photogrammetry-page-items
     photogrammetry_item_title: Twin Bollards with other wreckage
     photogrammetry_description: >
-      Originally it was thought that there were three bollards together but it
-      does not appear anywhere on the plans. Fuji X-T2 12mm lens ISO 640 f/2.8
-      1/250th of a second \\* Started taking pictures at 16.08 with 406
-      photographs in 7 minutes \\* Saved as RAW total 19 GB - as JPG total 4.95
-      GB \\* Converted to TIFFS and white balanced in Photoshop \\* In Agisoft -
-      aligned 356 cameras in 1 chunk with 452,000 points \\* Originally tried to
-      mesh with 41million faces but ran out of memory (32GB). dropped the
-      quality to 13.6million faces - Took around 22 hours in total
+      Originally it was thought that there were three bollards together but this
+      does not appear anywhere on the plans.  Fuji X-T2 12mm lens ISO 640 f/2.8
+      1/250th of a second,  Started taking pictures at 16.08 with 406
+      photographs in 7 minutes.  Saved as RAW total 19 GB - as JPG total 4.95
+      GB.   Converted to TIFFS and white balanced in Photoshop.   In Agisoft -
+      aligned 313 cameras in 5 chunk with 193,000 points.  - Took around 8 hours
+      in total
     photo_for_model: /images/mighty-whale.jpg
     photogrammetry_model: ''
   - template: photogrammetry-page-items

@@ -8,9 +8,7 @@ photogrammetry_page_items:
     photo_for_model: /images/Screenshot 2021-06-08 at 16.13.14.png
     photogrammetry_description: >
       The bollards were originally fixed on the top deck (shown circled blue on
-      plan above)
-
-
+      the original plan )
 
 
       Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second

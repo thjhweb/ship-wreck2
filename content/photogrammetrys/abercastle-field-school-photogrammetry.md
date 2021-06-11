@@ -20,7 +20,7 @@ photogrammetry_page_items:
 
 
       In Agisoft - aligned 248 cameras in 6 chunks with 485,000 points .  Took
-      around 4 days
+      around 10 hours
   - template: photogrammetry-page-items
     photogrammetry_item_title: Twin Bollards wrapped in cable
     photogrammetry_description: >

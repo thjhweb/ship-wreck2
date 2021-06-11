@@ -25,17 +25,10 @@ photogrammetry_page_items:
     photogrammetry_item_title: Twin Bollards wrapped in cable
     photogrammetry_description: >
       Again the bollards were originally fixed on the top deck (shown circled
-      blue on plan above) but these have a great deal of steel wire cable
-      wrapped around them
+      blue on plan ) but these have a great deal of steel wire cable wrapped
+      around them.
 
-
-      Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second \* Started taking
-      pictures at 13.09 with 356 photographs in 7 minutes and saved as RAW total
-      16.7 GB - as JPG total 4.66 GB \* Converted to TIFFS and white balanced in
-      Photoshop \* In Agisoft - aligned 356 cameras in 1 chunk with 452,000
-      points \* Originally tried to mesh with 41million faces but ran out of
-      memory (32GB). dropped the quality to 13.6million faces - Took around 22
-      hours in total
+        Fuji X-T2 12mm lens ISO 640 f/2.8 1/250th of a second,  Started taking pictures at 13.09 with 356 photographs in 7 minutes and saved as RAW total 16.7 GB - as JPG total 4.66 GB   Converted to TIFFS and white balanced in Photoshop.  In Agisoft - aligned 356 cameras in 1 chunk with 452,000 points.  Originally tried to mesh with 41million faces but ran out of memory (32GB), after dropping the quality to 13.6million faces - took around 22 hours in total
     photogrammetry_model: /images/prop-boss.glb
     photo_for_model: /images/DSCF6060 wired.jpg
   - template: photogrammetry-page-items

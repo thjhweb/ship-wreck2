@@ -32,7 +32,7 @@
             {{ if (not (isset .Params "photogrammetry_page")) | or (eq .Params.photogrammetry_page "") }}
             <section class="photo">
             
-            
+            <a href='/{{ trim .Params.photogrammetry_page ".md" }} '>Click here to see Photogrammetry</a>
             </section>
             {{end}}
             <section class="survey">

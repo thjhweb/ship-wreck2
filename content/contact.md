@@ -20,16 +20,6 @@ form_fields:
     is_required: true
   - type: form_field
     template: form_field
-    input_type: select
-    name: subject
-    label: Subject
-    default_value: Please select
-    options:
-      - Error on the site
-      - Sponsorship
-      - Other
-  - type: form_field
-    template: form_field
     input_type: textarea
     name: message
     label: Message

@@ -5,7 +5,7 @@ more_link_text: Keep reading
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Journeyman - Recording Archaelogy
+  title: Journeyman - Recording Archaeology
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'

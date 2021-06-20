@@ -5,7 +5,7 @@ more_link_text: Keep reading
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: Aber Field School
+  title: Journeyman - Recording Archaelogy
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'

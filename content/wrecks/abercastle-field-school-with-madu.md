@@ -42,7 +42,7 @@ photogrammetry_page: photogrammetrys/abercastle-field-school-photogrammetry.md
 
 A silhouette reconstruction made by MADU (superimposed on a photograph of the field school dive teams going out to the wreck site)
 
-![](/\_static/app-assets/ab%20survey%20pic1.jpg)
+![](/images/ab%20survey%20pic1.jpg)
 
 The ship stayed afloat for some months after hitting the cliff and much of the materials from the ship was salvaged, it is believed some material was brought ashore by boat and some was hoisted up the cliff .
 
@@ -69,23 +69,23 @@ The instrument used at the field school was a Leica TS06 plus 5” R500 – gene
 
 The position of the Leysian wreck surveyed from the cliff top is shown below as well as the concrete bases that may have carried the winches for the salvage operation, the inset shows one of the dive boats on the wreck buoy
 
-![](/\_static/app-assets/ab%20survey%20pic2.jpg)
+![](/images/ab%20survey%20pic2.jpg)
 
 The ‘on land’ surveying was carried out by a team of volunteers including G.Adams, Reese, Henry, Hugh and John Hemingway using a Leica TS06 Total Station while a team of Divers from Llantrisant Sub-Aqua Club (Paul Gray, Richy Grice, Ceri Jones, Darren Cox) were in the water.
 
 One diver held the point on the sea bed while another held the reflector on a
 floating buoy. Their dive report  showing the method of calculating the reflector position taking into account the current, is shown below.
 
-![](/\_static/app-assets/ab%20survey%20pic3.jpg)
+![](/images/ab%20survey%20pic3.jpg)
 
 Below is a view over the wreck site from the surveying position, close to the one of the possible winching positions used in the salvage of the Leysian.
 
-Single Concrete post hole, approx 500 x 500mm concrete with 130 x 130mm hole. There may have been another hole in front of this but it was very indistinct. Coordinate position approx  51.962N    -5.1339 EAST![](/\_static/app-assets/ab%20survey%20pic4.jpg)
+Single Concrete post hole, approx 500 x 500mm concrete with 130 x 130mm hole. There may have been another hole in front of this but it was very indistinct. Coordinate position approx  51.962N    -5.1339 EAST![](/images/ab%20survey%20pic4.jpg)
 
-Below are Concrete bases 1 - Post holes  on the cliff top to the east of the Total Station position. Each approx 500 x 460mm Concrete with 150 x 95mm hole. Coordinate position approx  51.9614N    -5.1329 E![](/\_static/app-assets/ab%20survey%202pic5.jpg)
+Below are Concrete bases 1 - Post holes  on the cliff top to the east of the Total Station position. Each approx 500 x 460mm Concrete with 150 x 95mm hole. Coordinate position approx  51.9614N    -5.1329 E![](/images/ab%20survey%202pic5.jpg)
 
-Below are Concrete bases 2 - Post holes  on the cliff top furthest to the east of the Total Station position (photograph is looking towards Abercastle). Inland  (right on photograph) Approx 410 x 350mm Concrete with 120 x 130mm hole - Water side (left on photograph) Approx 450 x 700mm Concrete with 130 x 160mm hole - Approx 900mm centres.       Coordinate position approx 51.9613 N    -5.1327![](/\_static/app-assets/ab%20survey%20pic6.jpg)
+Below are Concrete bases 2 - Post holes  on the cliff top furthest to the east of the Total Station position (photograph is looking towards Abercastle). Inland  (right on photograph) Approx 410 x 350mm Concrete with 120 x 130mm hole - Water side (left on photograph) Approx 450 x 700mm Concrete with 130 x 160mm hole - Approx 900mm centres.       Coordinate position approx 51.9613 N    -5.1327![](/images/ab%20survey%20pic6.jpg)
 
 Below National Trust Sign Post.  At the head of the stairs to the cliff top Pembrokeshire Coastal Path looking towards Abercastle Bay Coordinate position approx  51.96092 N   -5.13142 E
 
-![](/\_static/app-assets/ab%20survey%20pic7.jpg)
+![](/images/ab%20survey%20pic7.jpg)

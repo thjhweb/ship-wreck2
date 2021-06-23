@@ -7,7 +7,7 @@ layout: wreck
 photogrammetry_page: []
 survey_page: []
 thumb_img_alt: Photo Mosaics
-title: Training with the NAS
+title: Training with the NAS at Stoney Cove
 seo:
   description: ''
   extra: []

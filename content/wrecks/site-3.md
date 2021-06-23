@@ -5,7 +5,7 @@ excerpt: sdfsdfsdfsdfsdfsdfsdfsdfsdf
 hide_sidebar: false
 layout: wreck
 photogrammetry_page: []
-subtitle: P
+subtitle: Photo Mosaics
 survey_page: []
 thumb_img_alt: ''
 thumb_img_path: /images/ships plan.jpg

@@ -14,6 +14,5 @@ seo:
   robots: []
   title: ''
   type: stackbit_page_meta
-thumb_img_path: /images/mosaic composite.jpg
 ---
 sdfsdfsdfsdfsdfdsfsdfsdfsdfsdfsdf

@@ -6,7 +6,7 @@ hide_sidebar: false
 layout: wreck
 photogrammetry_page: []
 survey_page: []
-thumb_img_alt: ''
+thumb_img_alt: Photo Mosaics
 thumb_img_path: /images/anchor mosaic.jpg
 title: Training with the NAS
 seo:

@@ -9,7 +9,7 @@ subtitle: Photo Mosaics
 survey_page: []
 thumb_img_alt: ''
 thumb_img_path: /images/ships plan.jpg
-title: Site 3 Training with the NAS
+title: Training with the NAS
 seo:
   description: ''
   extra: []

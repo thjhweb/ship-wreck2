@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/jh.jpg
+img_path: /images/772.jpg
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta

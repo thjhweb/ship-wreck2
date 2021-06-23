@@ -1,59 +1,7 @@
 {
     "title": "Stackbit Fjord Themes",
     "palette": "blue",
-    "header": {
-        "type": "header",
-        "template": "header",
-        "title": "Journeyman",
-        "tagline": "Recording Archaeology",
-        "logo_img_alt": "Fjord Logo",
-        "background_img": "/images/front.jpg",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Home",
-                "url": "/",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Sites",
-                "url": "/wrecks",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "About",
-                "url": "/about",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link",
-                "icon_class": "",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
-        "has_social": true,
-        "social_links": []
-    },
+    
     "footer": {
         "type": "footer",
         "template": "footer",

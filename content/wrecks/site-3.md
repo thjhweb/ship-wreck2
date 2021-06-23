@@ -5,7 +5,7 @@ excerpt: "Photo Mosaics - While mosaics are not a primary way of surveying a sit
 hide_sidebar: false
 layout: wreck
 photogrammetry_page: []
-survey_page: []
+survey_page: content/about.md
 title: Training with the NAS at Stoney Cove
 seo:
   description: ''

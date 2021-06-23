@@ -1,7 +1,7 @@
 ---
 content_img_path: /images/front.jpg
 date: '2021-01-04T00:00:00.000Z'
-excerpt: sdfsdfsdfsdfsdfsdfsdfsdfsdf
+excerpt: Photo Mosaics
 hide_sidebar: false
 layout: wreck
 photogrammetry_page: []

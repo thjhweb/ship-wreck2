@@ -59,7 +59,7 @@ This is a method of obtaining reliable data about physical objects through the p
 
 One of the divers, Henry, photographed four particular areas of the wreck and by using 3D software these have been converted into models that can be viewed and manipulated on this site
 
-Click Here to see the [Photogrammetry](/photogrammetrys/abercastle-field-school-photogrammetry)
+Click Here to see the [Photogrammetry](/photogrammetrys/anchors-photogrammetry)
 
 **Surveying with a Total Station:**
 

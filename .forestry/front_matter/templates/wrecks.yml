@@ -95,5 +95,6 @@ fields:
   default: wreck
 pages:
 - content/wrecks/abercastle-field-school-with-madu.md
+- content/wrecks/anchors.md
 - content/wrecks/sandwich-title.md
 - content/wrecks/site-3.md

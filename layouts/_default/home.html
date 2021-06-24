@@ -23,7 +23,8 @@
             </header><!-- .post-header -->
             {{ if $post.Params.thumb_img_path }}
             <a class="post-thumbnail" href="{{ $post.URL }}">
-                      </a>
+              <img style="float:left" width="20" height="20" class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.thumb_img_alt }}" />
+            </a>
             {{ end }}
             <div class="post-content">
               <p>{{ $post.Params.excerpt }}</p>

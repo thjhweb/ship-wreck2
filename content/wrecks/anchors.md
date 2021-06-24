@@ -1,6 +1,6 @@
 ---
 content_img_path: /images/Leysian.jpg
-date: '2015-06-02'
+date: '2015-11-22'
 excerpt: >-
   In June 2019. Multiple dive clubs joined a field school run by MADU to dive
   the SS Leysian. The field schools formed part of Commemorating the Forgotten

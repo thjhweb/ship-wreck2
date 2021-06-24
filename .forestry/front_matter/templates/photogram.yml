@@ -29,4 +29,5 @@ fields:
   hidden: true
   default: photogrammetry
 pages:
+- content/photogrammetrys/anchors-photogrammetry.md
 - content/photogrammetrys/sandwich-photogrammetry.md

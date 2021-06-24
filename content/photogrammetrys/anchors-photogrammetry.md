@@ -3,7 +3,7 @@ layout: photogrammetry
 photogrammetry_title: Abercastle Field School Photogrammetry
 photogrammetry_page_items:
 - photogrammetry_item_title: 'Twin Bollards Leaning '
-  photogrammetry_model: "/images/prop-boss.glb"
+  photogrammetry_model: "/images/trimmed-grass-anchor-model-glb.glb"
   template: photogrammetry-page-items
   photo_for_model: "/images/Screenshot 2021-06-08 at 16.13.14.png"
   photogrammetry_description: |
